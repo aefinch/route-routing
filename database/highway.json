@@ -1,0 +1,16 @@
+{
+	"highways": {
+		"route66": {
+			"roadName": "Route 66",
+			"tagline": "Main Street of America",
+			"description": "U.S. Highway 66 -- popularly known as Route 66 or the Mother Road -- holds a special place in American consciousness and evokes images of simpler times, mom and pop businesses, and the icons of a mobile nation on the road. This travel itinerary aids the public to visit the historic places that recall those images and experiences that are reminders of our past and evidence of the influence of the automobile. The Route 66 Discover Our Shared Heritage Travel Itinerary was produced by the National Park Service's Heritage Education Services and the National Park Service Route 66 Corridor Preservation Program, in partnership with the American Express and World Monuments Fund Sustainable Tourism Initiative and the National Conference of State Historic Preservation Officers.",
+			"website": "https://www.nps.gov/nr/travel/route66/"
+		},
+		"blueridgeparkway": {
+			"roadName": "Blue Ridge Parkway",
+			"tagline": "America's Favorite Drive",
+			"description": "The Blue Ridge Parkway is a National Parkway and All-American Road in the United States, noted for its scenic beauty. The parkway, which is America's longest linear park, runs for 469 miles (755 km) through 29 Virginia and North Carolina counties, linking the Shenandoah National Park to the Great Smoky Mountains National Park. It runs mostly along the spine of the Blue Ridge, a major mountain chain that is part of the Appalachian Mountains. Its southern terminus is on the boundary between Great Smoky Mountains National Park and the Cherokee Indian Reservation in North Carolina, from which it travels north to Shenandoah National Park in Virginia continues on as Skyline Drive, a similar scenic road which is managed by a different National Park Service unit. The parkway has been the most visited unit of the National Park System every year since 1946 except two (1949, 2013). Land on either side of the road is owned and maintained by the National Park Service and, in many places, parkway land is bordered by United States Forest Service property. The parkway is on North Carolina's version of the America the Beautiful quarter in 2015.",
+			"website": "https://www.nps.gov/blri/planyourvisit/basicinfo.htm"
+		}
+	}
+}
